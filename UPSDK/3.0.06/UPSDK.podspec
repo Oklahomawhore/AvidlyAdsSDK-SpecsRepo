@@ -22,7 +22,7 @@ Avidly Ad SDK.
 
   s.source_files = 'Framework/GDT/include/*'
   
-  s.resources = "Framework/UPSDK/resource/*", "Framework/Baidu/resource/*", "Framework/PlayableAds/resource/*", "Framework/Toutiao/resource/*"
+  s.resources = "Framework/UPSDK/resource/*", "Framework/Baidu/resource/*",  "Framework/Toutiao/resource/*"
 
   s.public_header_files = 'Framework/GDT/include/*'
 
@@ -32,6 +32,6 @@ Avidly Ad SDK.
 
   s.vendored_libraries = "Framework/GDT/libGDTMobSDK.a"
 
-  s.vendored_frameworks = 'Framework/UPSDK/UPSDK.framework', 'Framework/AdColony/AdColony.framework', 'Framework/AppLovin/AppLovinSDK.framework', 'Framework/Baidu/BaiduMobAdSDK.framework', 'Framework/BatMobi/ZZAdSDK.framework', 'Framework/BatMobi/ZZAdVideoSDK.framework','Framework/BatMobi/ZZDWKit.framework', 'Framework/Chartboost/Chartboost.framework', 'Framework/FBAudienceNetwork/FBAudienceNetwork.framework', 'Framework/FBAudienceNetwork/FBAudienceNetworkBiddingKit.framework', 'Framework/GoogleMobileAds/GoogleMobileAds.framework', 'Framework/IronSource/IronSource.framework', 'Framework/Maio/Maio.framework', 'Framework/Mintegral/MTGSDK.framework', 'Framework/Mintegral/MTGSDKReward.framework', 'Framework/Mintegral/MTGSDKInterActive.framework', 'Framework/MyTarget/MyTargetSDK.framework', 'Framework/Nend/NendAd.framework', 'Framework/PlayableAds/PlayableAdsSDK.framework', 'Framework/Unity/UnityAds.framework', 'Framework/Vungle/VungleSDK.framework', 'Framework/OneWay/OneWaySDK.framework', 'Framework/Toutiao/WMAdSDK.framework', 'Framework/Amazon/AmazonAd.framework'
+  s.vendored_frameworks = 'Framework/UPSDK/UPSDK.framework', 'Framework/AdColony/AdColony.framework', 'Framework/AppLovin/AppLovinSDK.framework', 'Framework/Baidu/BaiduMobAdSDK.framework', 'Framework/BatMobi/ZZAdSDK.framework', 'Framework/BatMobi/ZZAdVideoSDK.framework','Framework/BatMobi/ZZDWKit.framework', 'Framework/Chartboost/Chartboost.framework', 'Framework/FBAudienceNetwork/FBAudienceNetwork.framework', 'Framework/FBAudienceNetwork/FBAudienceNetworkBiddingKit.framework', 'Framework/GoogleMobileAds/GoogleMobileAds.framework', 'Framework/IronSource/IronSource.framework', 'Framework/Maio/Maio.framework', 'Framework/Mintegral/MTGSDK.framework', 'Framework/Mintegral/MTGSDKReward.framework', 'Framework/Mintegral/MTGSDKInterActive.framework', 'Framework/MyTarget/MyTargetSDK.framework', 'Framework/Nend/NendAd.framework', 'Framework/Unity/UnityAds.framework', 'Framework/Vungle/VungleSDK.framework', 'Framework/Toutiao/WMAdSDK.framework', 'Framework/Amazon/AmazonAd.framework'
 
 end
